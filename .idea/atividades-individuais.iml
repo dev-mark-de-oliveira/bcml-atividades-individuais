@@ -7,3 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
+
+git remote add origin https://github.com/mark-oliveira-ml/bcml-atividades-individuais-bootcamp.git
+git branch -M main
