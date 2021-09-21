@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda/Agenda.iml" filepath="$PROJECT_DIR$/Agenda/Agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cliente/Cliente.iml" filepath="$PROJECT_DIR$/Cliente/Cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManipulaString/ManipulaString.iml" filepath="$PROJECT_DIR$/ManipulaString/ManipulaString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManipulaArquivo/ManipulaaRQUIVO.iml" filepath="$PROJECT_DIR$/ManipulaArquivo/ManipulaaRQUIVO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividades-individuais.iml" filepath="$PROJECT_DIR$/.idea/atividades-individuais.iml" />
+    </modules>
+  </component>
+</project>
